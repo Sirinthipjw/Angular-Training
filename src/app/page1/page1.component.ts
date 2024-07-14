@@ -9,9 +9,10 @@ import { Component } from '@angular/core';
 })
 export class Page1Component {
   imageCoverUrl1 = '/image/image2.png'
+  //major = 'Programmer'
   onImageClick(){
     alert("สวัสดีจ้าาาาาาาาา")
   }
-  major = 'Programmer'
+  
 
 }
